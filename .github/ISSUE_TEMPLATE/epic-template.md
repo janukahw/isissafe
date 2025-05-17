@@ -7,4 +7,12 @@ assignees: ''
 
 ---
 
-Epic name
+Epic name : 
+Epic description : 
+## Epic Categories
+Select all applicable categories by checking the boxes:
+- [ ] Frontend
+- [ ] Backend
+- [ ] Design
+- [ ] Testing
+- [ ] Documentation
